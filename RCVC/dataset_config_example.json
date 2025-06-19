@@ -1,0 +1,15 @@
+{
+
+    "UVG": {
+        "base_path": "/mnt/DCVC/media/data/UVGDataSet_crop",
+        "sequences": {
+            "Beauty_1920x1024_120fps_420_8bit_YUV":            {"frames":  120, "gop":  12},
+            "Bosphorus_1920x1024_120fps_420_8bit_YUV":         {"frames":  120, "gop":  12},
+            "HoneyBee_1920x1024_120fps_420_8bit_YUV":          {"frames":  120, "gop":  12},
+            "Jockey_1920x1024_120fps_420_8bit_YUV":            {"frames":  120, "gop":  12},
+            "ReadySteadyGo_1920x1024_120fps_420_8bit_YUV":     {"frames":  120, "gop":  12},
+            "ShakeNDry_1920x1024_120fps_420_8bit_YUV":         {"frames":  120, "gop":  12},
+            "YachtRide_1920x1024_120fps_420_8bit_YUV":         {"frames":  120, "gop":  12}
+        }
+    }   
+}

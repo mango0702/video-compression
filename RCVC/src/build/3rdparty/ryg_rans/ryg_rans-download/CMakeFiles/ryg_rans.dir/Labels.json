@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/CMakeFiles/ryg_rans-complete.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-install.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-download.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-update.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-patch.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-configure.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-build.rule"
+		},
+		{
+			"file" : "/mnt/DCVC/src/build/3rdparty/ryg_rans/ryg_rans-download/ryg_rans-prefix/src/ryg_rans-stamp/ryg_rans-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ryg_rans"
+		],
+		"name" : "ryg_rans"
+	}
+}

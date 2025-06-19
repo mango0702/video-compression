@@ -1,0 +1,14 @@
+# Target labels
+ pybind11
+# Source files and their labels
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/CMakeFiles/pybind11-complete.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-install.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-mkdir.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-download.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-update.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-patch.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-configure.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-build.rule
+/mnt/DCVC/src/build/3rdparty/pybind11/pybind11-download/pybind11-prefix/src/pybind11-stamp/pybind11-test.rule
